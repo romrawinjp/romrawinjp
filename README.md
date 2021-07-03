@@ -21,7 +21,8 @@
 - 📚 I love reading books.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=albertotono.count_visitors)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=romrawinjp.count_visitors)
+
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
