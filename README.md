@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
-- People usually call me **Jinpu**.
+- People usually call me **Jinpu** or **Jin** in short.
 
 > Stay hungry, then eat!
 
@@ -19,6 +19,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books.
+- 🧬 Extra studying on Human Evolution and French.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=romrawinjp.count_visitors)
