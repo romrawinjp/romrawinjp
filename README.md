@@ -1,4 +1,4 @@
-# 🔍 | Romrawin Chumpu
+# 👩‍💻 Romrawin Chumpu
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
@@ -31,6 +31,6 @@ You can click the Preview link to take a look at your changes.
 
 # 📝 Medium
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1" alt="Recent Article 1"> 
 
 
