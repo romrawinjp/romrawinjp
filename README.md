@@ -22,8 +22,6 @@
 - 🧬 Extra studying on Human Evolution and French.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=romrawinjp.count_visitors)
-
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -33,4 +31,4 @@ You can click the Preview link to take a look at your changes.
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1" alt="Recent Article 1"> 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=romrawinjp.count_visitors)
