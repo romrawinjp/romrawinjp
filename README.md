@@ -19,7 +19,8 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books.
-- 🧬 Extra studying on Human Evolution and French.
+- 🅰️ I'm so glad I finishned Human Evolution with an A
+- 🧬 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modling, French, and German.
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 <!---
