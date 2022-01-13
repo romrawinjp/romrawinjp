@@ -20,8 +20,8 @@
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books. Currently into poetry.
 - 🅰️ I'm so glad I finished Human Evolution with an A
-- 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling.
-- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, and German.
+- 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling
+- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, and German
 - 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 <!---
