@@ -4,7 +4,7 @@
 - My name is **Romrawin Chumpu**.
 - People usually call me **Jinpu** or **Jin** in short.
 
-> Stay hungry, then eat!
+> I'm looking for PhD!
 
 **How to reach me** 👉    
 ✉️ [Email](mailto:m6222040393@g.siit.tu.ac.th) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu)
@@ -19,10 +19,8 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books. Currently into poetry.
-- 🅰️ I'm so glad I finished Human Evolution with an A
 - 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling
 - 😆 Language rank; Thai(native), English, Chinese, French, Japanese, and German
-- 📈 Crypto NFT beginner [@jpxspace](https://www.instagram.com/jpxspace)
 
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
