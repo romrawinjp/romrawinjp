@@ -9,6 +9,8 @@
 **How to reach me** 👉    
 ✉️ [Email](mailto:romrawinc@gmail.com) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu) | 📖[Google Scholar](https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en)
 
+## Github update
+
 ![Romrawin's github stats](https://github-readme-stats.vercel.app/api?username=romrawinjp&show_icons=true&theme=default)
 
 I enjoy learning new languages here! (including spoken and programming :) )
@@ -30,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 📝 Medium
+
+My new blog on medium here!
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1" alt="Recent Article 1"> 
 
