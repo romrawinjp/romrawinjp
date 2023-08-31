@@ -3,8 +3,10 @@
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
 - You can call me **Jin**!
+- My professional goal is to become a good researcher in the fields of computer simulation and machine learning.
+- Recent work - materials simulation areas where I believe that computer graphics and machine learning can lead us to the way we can find a new materials.
 
-> I'm looking for PhD!
+> I'm looking for PhD! position (where we have a happy lab and I belong).
 
 **How to reach me** 👉    
 ✉️ [Email](mailto:romrawinc@gmail.com) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu) | 📖[Google Scholar](https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en)
@@ -13,7 +15,7 @@
 
 ![Romrawin's github stats](https://github-readme-stats.vercel.app/api?username=romrawinjp&show_icons=true&theme=default)
 
-I enjoy learning new languages here! (including spoken and programming :) )
+I enjoy learning new languages! (including spoken and programming :) )
 
 [![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=romrawinjp&layout=compact&theme=default)](https://github.com/romrawinjp/github-readme-stats)
 
