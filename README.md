@@ -15,10 +15,9 @@
 
 ![Romrawin's github stats](https://github-readme-stats.vercel.app/api?username=romrawinjp&show_icons=true&theme=default)
 
-I enjoy learning new languages! (including spoken and programming :) )
-
 [![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=romrawinjp&layout=compact&theme=default)](https://github.com/romrawinjp/github-readme-stats)
 
+I enjoy learning new languages including spoken and programming :)
 
 ## Current interests
 
@@ -26,7 +25,7 @@ I enjoy learning new languages! (including spoken and programming :) )
 - 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
 - 📚 I love reading books. Also love reading poem.
 - 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling
-- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, and German
+- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, German, and Spanish
 
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
