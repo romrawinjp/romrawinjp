@@ -42,4 +42,4 @@ My new blog on medium here!
 
 # 🖼️ Artworks
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Face is always the hardest. <br><br>I always skewed the mouth, but kinda glad it keeps getting better 😊 <a href="https://t.co/sWtOCiLZmx">pic.twitter.com/sWtOCiLZmx</a></p>&mdash; Romrawin Chumpu (@romrawinjp) <a href="https://twitter.com/romrawinjp/status/1702377640869634346?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Face is always the hardest. <br><br>I always skewed the mouth, but kinda glad it keeps getting better 😊 <a href="https://t.co/sWtOCiLZmx">pic.twitter.com/sWtOCiLZmx</a></p>&mdash; Romrawin Chumpu (@romrawinjp) <a href="https://twitter.com/romrawinjp/status/1702377640869634346?ref_src=twsrc%5Etfw">September 14, 2023</a></blockquote>
