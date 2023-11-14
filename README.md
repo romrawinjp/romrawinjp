@@ -6,7 +6,7 @@
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent work - materials simulation areas where I believe that computer graphics and machine learning can lead us to the way we can find a new material.
 
-> I'm looking for PhD! position (where we have a happy lab and I belong).
+> I'm looking for PhD position (where we have a happy lab and I belong).
 
 **How to reach me** 👉    
 ✉️ [Email](mailto:romrawinc@gmail.com) | 📘 [LinkedIn](https://www.linkedin.com/in/romrawin-chumpu/) | 📰 [researchgate](https://www.researchgate.net/profile/Romrawin-Chumpu) | 📖[Google Scholar](https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en)
