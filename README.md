@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @romrawinjp. Here is my github page.
 - My name is **Romrawin Chumpu**.
-- You can call me **Jin**!
+- You can call me **Jin**! If you can pronounce Chinese, my name is 進步. It means improvement. 
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent work - materials simulation areas where I believe that computer graphics and machine learning can lead us to the way we can find a new material.
 
