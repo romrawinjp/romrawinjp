@@ -6,7 +6,9 @@
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent work - materials simulation areas where I believe that computer graphics and machine learning can lead us to the way we can find a new material.
 
-**Grand challenge in 2024 and beyond** - just stepping back and looking at a big picture of what I was doing after talking to people. I'll continuously do research in the computational material discovery paradigm as much as my knowledge can implement, with a phd or without, because if I am not doing it, who else can process both worlds better than me. It's a very important direction, and I think this paradigm will help tremendously in the near future. 
+**Grand challenge in (work) 2024 and beyond** - just stepping back and looking at a big picture of what I was doing after talking to people. I'll continuously do research in the computational material discovery paradigm as much as my knowledge can implement, with a phd or without, because if I am not doing it, who else can process both worlds better than me. It's a very important direction, and I think this paradigm will help tremendously in the near future.
+
+**Grand challenge in life and beyond** - there must be a way to integrate my artistic and technological academic skills together. 
 
 **How to reach me** 👉    
 ✉️ [Email](mailto:romrawinc@gmail.com)| 📖[Google Scholar](https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en)
