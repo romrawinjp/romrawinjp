@@ -1,8 +1,8 @@
 # 👩‍💻 Romrawin Chumpu
 
-- 👋 Hi, I’m @romrawinjp. Here is my github page.
-- My name is **Romrawin Chumpu**.
-- You can call me **Jin**! My parents originally named me 進步; it's hard to pronounce sometimes. 
+- 👋 Hi, I’m @romrawinjp. Here is my github homepage.
+- My Thai name is **Romrawin Chumpu**.
+- You can call me **Jin**! That's my nickname. My parents originally named me 進步; it's hard to pronounce most of the time. 
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent work - materials simulation areas where I believe that computer graphics and machine learning can lead us to the way we can find a new material.
 
@@ -19,15 +19,15 @@
 
 [![Most use language](https://github-readme-stats.vercel.app/api/top-langs/?username=romrawinjp&layout=compact&theme=default)](https://github.com/romrawinjp/github-readme-stats)
 
-I enjoy learning new languages including spoken and programming.
 
 ## Current interests
 
 - 👀 I’m interested in math with graph and machine learning.
-- 🌱 I’m currently learning more about deep learning techniques, which are mostly on the way to Geometric Deep Learning.
+- 🌱 I’m currently learning more about deep learning, which are mostly on the way to geometric deep learning.
+- ☕ More coffee!
 - 📚 I love reading books. Also love reading poems.
-- 🎢 Extra studying Abtract Algebra, Computer Graphics, Mathematical Modeling
-- 😆 Language rank; Thai(native), English, Chinese, French, Japanese, German, and Spanish
+- 🎃 I enjoy learning new languages including spoken and programming.
+- 😆 Language rank; [Thai(native), English, Chinese, French] - [forgetting] Japanese, German, and Spanish
 
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 # 📝 Medium
 
-My new blog on medium here!
+My new blog on medium is here! 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1" alt="Recent Article 1"> 
 
