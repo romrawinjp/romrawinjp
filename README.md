@@ -29,6 +29,10 @@
 - 🎃 I enjoy learning new languages including spoken and programming.
 - 😆 Language rank; [Thai(native), English, Chinese, French] - [forgetting] Japanese, German, and Spanish
 
+## Current curiosities
+
+- 🎨 **Why do all greatest artists dust out of this world by poverty before getting to be known for their art pieces?** like Van Gogh, Vivaldi. Yeah, that's the obvious evidence of the more failures you get, the more skills and complexity of artworks you're handful of it. Though, I'm qualified, but how do it not dust out before 😜 
+
 <!---
 romrawinjp/romrawinjp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
