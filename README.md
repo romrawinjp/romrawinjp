@@ -6,9 +6,12 @@
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent works - wandering around 3D geometry processing 
 
+
+<!---
 **Grand challenge in (work) 2024 and beyond** - just stepping back and looking at a big picture of what I was doing after talking to people. I'll continuously do research in the computational material discovery paradigm as much as my knowledge can implement, because if I am not doing it, who else can process both worlds better than me. It's a very important direction, and I think this paradigm will help tremendously in the near future.
 
 **Grand challenge in life and beyond** - there must be a way to integrate my artistic and technological academic skills together. 
+--->
 
 More publications: 📖[Google Scholar](https://scholar.google.com/citations?user=ByblefQAAAAJ&hl=en)
 
@@ -37,7 +40,8 @@ More publications: 📖[Google Scholar](https://scholar.google.com/citations?use
 
 ## Current curiosities
 
-- 🎨 **Why do all greatest artists dust out of this world by poverty before getting to be known for their art pieces?** like Van Gogh or Vivaldi. Yeah, that's the obvious evidence of the more failures you get, the more unique skills and complexities of artworks you're handful of it. Though, I'm qualified by any factor, and how do I not dust out before? 😜 
+- 🎨 **Why do all greatest artists dust out of this world by poverty before getting to be known for their art pieces?** like Van Gogh or Vivaldi. Yeah, that's the obvious evidence of the more failures you get, the more unique skills and complexities of artworks you're handful of it. Though, I'm qualified by any factor, and how do I not dust out before? 
+- What kind of energy does the world trend to move forward to it? Is it entropy?
 
 # 📝 Medium
 
