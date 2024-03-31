@@ -6,7 +6,7 @@
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent works - wandering around 3D geometry processing 
 
-A friend told me about our jobs as a portflio recently, so I would define them as
+A friend told me about our jobs as a portflio recently, so I would define them as 
 
 ████████▒▒ 80% Researcher
 █▒▒▒▒▒▒▒▒▒ 10% Artist
@@ -52,9 +52,9 @@ More publications: 📖[Google Scholar](https://scholar.google.com/citations?use
 
 # 📝 Medium
 
-My new blog on medium is here! 
+My latest blog on medium is updated here. 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawin/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@romrawinjp/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@romrawinjp/1" alt="Recent Article 1"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romrawinjp&label=Profile%20views&color=0e75b6&style=flat" alt="romrawinjp" /> </p>
 
