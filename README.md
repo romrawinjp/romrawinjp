@@ -6,6 +6,13 @@
 - My career goal is to become a good researcher in the fields of physical simulation and machine learning.
 - Recent works - wandering around 3D geometry processing 
 
+A friend told me about our jobs as a portflio recently, so I would define them as
+
+████████▒▒ 80% Researcher
+█▒▒▒▒▒▒▒▒▒ 10% Artist
+█▒▒▒▒▒▒▒▒▒ 10% Writer
+
+Will see how it goes in the future!
 
 <!---
 **Grand challenge in (work) 2024 and beyond** - just stepping back and looking at a big picture of what I was doing after talking to people. I'll continuously do research in the computational material discovery paradigm as much as my knowledge can implement, because if I am not doing it, who else can process both worlds better than me. It's a very important direction, and I think this paradigm will help tremendously in the near future.
