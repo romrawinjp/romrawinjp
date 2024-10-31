@@ -2,8 +2,9 @@
 
 Welcome to my github page!
 
-████████▒▒ 80% Researcher [Computer Scientist + Mathematician = Magician]
-█▒▒▒▒▒▒▒▒▒ 10% Artist 
+What I want to be <br>
+████████▒▒ 80% Researcher [Computer Scientist + Mathematician = Magician] <br>
+█▒▒▒▒▒▒▒▒▒ 10% Artist <br>
 █▒▒▒▒▒▒▒▒▒ 10% Writer
 
 ![Places](feature.png)
